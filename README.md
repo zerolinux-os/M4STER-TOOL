@@ -16,7 +16,9 @@ A comprehensive tool for installing security testing tools (like Tool-X), person
 `cd M4STER-TOOL
 `chmod +x install.aex
 `./install.aex
-`# After installation, run the tool with the command: m4ster-tool
+
+`# After installation, run the tool with the command:   m4ster-tool
+
 
 
 ✨ Added Modifications
